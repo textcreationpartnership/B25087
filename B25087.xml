@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King: a proclamation. James R. Whereas the continuance and encrease of tillage and husbandry will in a great measure contribute to the well-being of our people in general, and more especially to the support of our army, ...</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25087</idno><idno type="EEBO-CITATION">99886411</idno>
+  <idno type="VID">186666</idno>
+  <idno type="EEBO-PROQUEST">2264216369</idno>
+  
+            <idno type="STC">Wing J296</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[91]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[101]</idno>
+            <idno type="STC">ESTC R225978</idno>
+            <idno type="PROQUEST">ocm99886411</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886411e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186666)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[91]; C23:1[101])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King: a proclamation. James R. Whereas the continuance and encrease of tillage and husbandry will in a great measure contribute to the well-being of our people in general, and more especially to the support of our army, ...</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook the assignee of Benjamin Tooke, printer to the King's most excellent Majesty; and are to be sold at his Majesties printing-house on Ormonde-Key.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1689 [i.e. 1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and opening lines of text.</note>
+                  <note>"Given at our court at our Castle of Dublin the 21th day of January. 1689."</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>For the encouragement of tillage and husbandry. Cf. Steele.</note>
+                  <note>Arms 185.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Farmers --  Law and legislation --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186666:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <signed>BY THE KING:</signed>
+            </opener>
+            <head>A PROCLAMATION.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>WHEREAS the continuance and encrease of Tillage and Husbandry will in a great measure contribute to the well-being of Our people in general, and more especially to the support of Our Army, which We must of necessity imploy, as well for the maintenance of Our own Royal Rights, as for the preservation of the Lives, Liberties, and Estates of Our Loving Subjects, against the Forces of Our Enemies and Rebels; We have there<g ref="char:EOLhyphen"/>fore thought fit, by the advice of Our Privy-Council (for the encouragement of all such persons, who do or shall apply themselves to Tillage and Husban<g ref="char:EOLhyphen"/>dry) to publish and declare, that Our Will and Pleasure is, that no Corn of any kind whatsoever now growing, or which shall hereafter be sowed, nor any Hay which shall hereafter be made upon any Lands whatsoever shall be sei<g ref="char:EOLhyphen"/>zed upon, or distrained for any Rent or Arrears of Rent due, or hereafter to grow due to Vs out of such Lands, or otherwise, or for any Rent, or Arrears of Rent, or other Duties payable to any of Our Subjects; the sowers of such Corn paying only to Vs, or to other the Owners of the ground where<g ref="char:EOLhyphen"/>on the same grows, such sheaf as by the Custom of the Countrey is due and payable: And further, that no Plow-horses or Plow-Oxen shall be taken away, or seized, upon any pretence whatsoever, or distrained for any Rent or other Duty, unless it be where no other manner of Distress is to be found: And Our further Will and Pleasure is, and We do hereby strictly Charge and Command all manner of persons who are now in possession of any Meadow-grounds, that they do fence in, and preserve the same in due season:
+<pb facs="tcp:186666:2"/> And We do hereby strictly charge and command all the Officers and private men of Our Troopes of Horse and Dragoones, and others of Our Army, that they or any of them do not at any time hereafter presume to graze any of their Horses in any Meddows or grounds preserved for Meddows upon pain of being Cashiered as to any Officer, who shall be found Transgressing herein, and as to any privat Trooper or Soldier to suffer such punishment as shall be in<g ref="char:EOLhyphen"/>flicted upon them by a Court-martial; And further that if any person be a<g ref="char:EOLhyphen"/>grieved in this particular, he shall make Oath thereof and of the value of the damage sustained before the Lieutenant or Deputy Lieutenant of the Coun<g ref="char:EOLhyphen"/>ty, where the Land lies, and transmit the same to Our Secretary at War to be presented to Vs, whereupon We will give immediate Order aswell for the severe punishment of the Offenders, as also for a speédy satisfaction to be made out of their Pay or Subsistence for the full damage to the party agrie<g ref="char:EOLhyphen"/>ved. And We do further Declare, that We will give directions to the Com<g ref="char:EOLhyphen"/>missioners of Our Revenue, or other persons concerned, to set all such Lands as are now in Our disposal, to such as will offer fairest for the promoting of Tillage and encrease of Corn and Hay; And that We will hereafter receive Hay and all sorts of grain at good competent Rates in satisfaction of any Rent or other Duty that shall be due or Payable to Vs, And we hereby strictly charge and command all Our Officers Civil and Military, and all o<g ref="char:EOLhyphen"/>ther Our loving Subjects whatsoever, that they and every of them in their respective stations do carefully observe Our Commands hereby Declared, and that they do on all occasions contribute their utmost endevours for to pre<g ref="char:EOLhyphen"/>serve and encourage all such persons as will be imployed in and about Hus<g ref="char:EOLhyphen"/>bandry and Tillage, as they and every of them shall answer the contrary at their Perils.</p>
+            <closer>
+               <dateline>Given at Our Court at Our Castle of <hi>Dublin</hi>
+                  <date>the 21th day of <hi>January.</hi> 1689. And in the fifth Year of Our Raign.</date>
+               </dateline>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook</hi> the Assignee of <hi>Benjamin Tooke,</hi> Printer to the King's most Excellent Majesty, And are to be sold at his Majesties Printing-House on <hi>Ormond-Key.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
